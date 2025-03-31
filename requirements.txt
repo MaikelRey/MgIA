@@ -1,0 +1,9 @@
+streamlit
+requests
+fastapi
+pydantic
+openai
+magenta
+tensorflow
+pydub
+supabase
